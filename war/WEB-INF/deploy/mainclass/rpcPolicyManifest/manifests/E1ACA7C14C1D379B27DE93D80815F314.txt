@@ -1,0 +1,2 @@
+serviceClass: com.projekt.client.BookService
+path: F2913330F359571480103D12F7BF51D8.gwt.rpc
